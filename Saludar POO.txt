@@ -1,0 +1,13 @@
+#código POO
+class Saludar:
+    def __init__(self, saludo):
+        self.saludo = saludo  
+
+    def mostrar_saludo(self):
+        print(self.saludo)
+
+
+def main():
+    saludo = Saludar("Hola Mundo")  
+    saludo.mostrar_saludo()  
+main()
