@@ -1,0 +1,4 @@
+//algoritmo 
+Algoritmo saludar
+	escribir "Hola Mundo"
+FinAlgoritmo
